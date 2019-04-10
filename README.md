@@ -11,7 +11,7 @@ http://www.datadt.com/api/data/AUDCAD/5/20190403/20190408?api_token=P155CNi3xSkT
 
 Get USDCAD day Historical data from '20180403' to '20190408':
 ```
-http://www.datadt.com/api/data/USDCAD/day/20190803/20190408?api_token=P155CNi3xSkTO9bctwZOBHglGez4dpmf
+http://www.datadt.com/api/data/USDCAD/day/20180803/20190408?api_token=P155CNi3xSkTO9bctwZOBHglGez4dpmf
 ```
 
 
